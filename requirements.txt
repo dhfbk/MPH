@@ -1,0 +1,6 @@
+scikit-learn
+matplotlib
+transformers
+accelerate
+jupyterlab
+seaborn

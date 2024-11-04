@@ -8,5 +8,5 @@ The diagnostic datasets provided in this repo are a subsample of the Ubuntu Inte
 
 - Repository: [https://github.com/hiroki13/response-ranking](https://github.com/hiroki13/response-ranking)
 
+Part of the code is an adaptation of the code originally distributed in the previous repository (i.e., functions in "tools.py" int the subfolders "my_code").
 
-Repo under development.
